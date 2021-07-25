@@ -53,7 +53,7 @@ I am a big fan of Chinese classic poems, Chinese online novel, Cantonese music, 
 
 ## About this site
 
-This website serves as both my personal website and my blog. You can click on the tab in the top to view my blog articles or my academic CV. You can change the langauge code by clicking the earth icon at the right top [点击右上方地球标志可实现中英语言切换]. 
+This website serves as both my personal website and my blog. You can click on the tab in the top to view my blog articles or my academic CV. You can change the langauge mode by clicking the earth icon at the right top [点击右上方地球标志可实现中英语言切换]. 
 
 ## Research interests 
 
