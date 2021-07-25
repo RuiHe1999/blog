@@ -51,7 +51,7 @@ I was an intern with the translation group of Belink Translation (Guangzhou, Chi
 
 I am a big fan of Chinese classic poems, Chinese online novel, Cantonese music, and Japanese anime. Though not a pure scientific student, I am fanscinated about science history, especially that of quantum mechanics and the theory of relativity. 
 
-## Bio
+## About this site
 
 This website serves as both my personal website and my blog. You can click on the tab in the top to view my blog articles or my academic CV. You can change the langauge code by clicking the earth icon at the right top [点击右上方地球标志可实现中英语言切换]. 
 
