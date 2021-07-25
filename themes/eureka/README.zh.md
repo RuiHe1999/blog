@@ -1,4 +1,4 @@
-[English](https://github.com/wangchucheng/hugo-eureka/blob/master/README.md) | 简体中文
+[English](https://github.com/RuiHe1999/blog/blob/main/themes/eureka/README.md) | 简体中文
 
 # Eureka
 
