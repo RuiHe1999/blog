@@ -10,7 +10,7 @@ lastmod: '2021-07-25'
 draft: false
 ---
 
-您好，感谢访问我的网页简历！如果您需要PDF版本，请在Overleaf ( https://www.overleaf.com/read/ngkyzftjrjyp )中下载。
+您好，感谢访问我的网页简历！请点击“阅读更多”查看完整版。如果您需要PDF版本，请在Overleaf ( https://www.overleaf.com/read/ngkyzftjrjyp )中下载。
 
 <!--more-->
 
