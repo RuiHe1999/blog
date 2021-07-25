@@ -45,11 +45,11 @@ widget:
 
 ## Bio
 
-I was born in a small city in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am going to start my Ph.D. in exploring speech-based computational systems for detecting Alzheimer's disease under the supervision of Dr. Wolfram Hinzen. This project has got sponsored by China Scholarship Council (CSC).
+I was born in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am going to start my Ph.D. in exploring speech-based computational systems for detecting Alzheimer's disease under the supervision of Dr. Wolfram Hinzen. This project has got sponsored by China Scholarship Council (CSC).
 
 I was an intern with the translation group of Belink Translation (Guangzhou, China) and the comprehensive office of Zhuhai People's Hospital (Zhuhai China). Now I am a computational linguistic intern with a natural language processing team at the AI Lab of ByteDance (Beijing, China). I am also an English & Chinese translator with experience of over 650k words in 3 years. My specialist translation areas include business advertising; healthcare and medicine; certification, testing, and inspection; international relations; investment; etc.
 
-I am a big fan of Chinese classic poems, Chinese online novel, Cantonese music, and Japanese anime. Though not a pure scientific student, I am fanscinated about science history, especially that of quantum mechanics and the theory of relativity. 
+I am a big fan of Chinese classic poems, Chinese online novels, Cantonese music, and Japanese anime. Though not a pure scientific student, I am fanscinated about science history, especially that of quantum mechanics and the theory of relativity. 
 
 ## Research interests 
 
