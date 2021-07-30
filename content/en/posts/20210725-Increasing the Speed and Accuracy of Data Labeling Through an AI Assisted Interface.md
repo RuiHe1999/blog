@@ -1,9 +1,9 @@
 ---
 title: Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
 description:
-tags: General NLP
+tags: 
 categories: paper notes
-series: Conference Paper
+series: General NLP
 lastmod: '2021-07-25'
 featuredImage:
 draft: false
