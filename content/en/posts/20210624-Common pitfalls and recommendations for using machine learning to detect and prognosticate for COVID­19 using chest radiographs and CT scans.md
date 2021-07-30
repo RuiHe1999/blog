@@ -2,9 +2,9 @@
 title: Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID­-19 using chest radiographs and CT scans
 description:
 toc: true
-tags:
+tags: review
 categories: paper notes
-series:
+series: Others 
 lastmod: '2021-06-24'
 featuredImage:
 draft: false
