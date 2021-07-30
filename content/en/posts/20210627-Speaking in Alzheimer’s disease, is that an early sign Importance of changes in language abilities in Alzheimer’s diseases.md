@@ -4,7 +4,7 @@ description:
 toc: true
 tags:
 categories: paper notes
-series: review
+series: Review
 lastmod: '2021-06-27'
 featuredImage:
 draft: false
