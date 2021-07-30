@@ -8,11 +8,10 @@ lastmod: '2021-07-30'
 featuredImage:
 draft: false
 ---
-Paper Note.
-<!--more-->
-# Metadata
-## Citation
+
 Chlasta, K., & Wołk, K. (2021). Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech. *Frontiers in psychology, 11*, 623237. https://doi.org/10.3389/fpsyg.2020.623237
+
+<!--more-->
 
 ```
 @ARTICLE{10.3389/fpsyg.2020.623237,
@@ -27,9 +26,7 @@ ABSTRACT={Dementia, a prevalent disorder of the brain, has negative effects on i
 }
 ```
 
-## Type
-Research article
-## Abstract
+# Abstract
 Dementia, a prevalent disorder of the brain, has negative effects on individuals and society. This paper concerns using Spontaneous Speech (ADReSS) Challenge of Interspeech 2020 to classify Alzheimer's dementia. We used (1) VGGish, a deep, pretrained, Tensorflow model as an audio feature extractor, and Scikit-learn classifiers to detect signs of dementia in speech. Three classifiers (LinearSVM, Perceptron, 1NN) were 59.1% accurate, which was 3% above the best-performing baseline models trained on the acoustic features used in the challenge. We also proposed (2) DemCNN, a new PyTorch raw waveform-based convolutional neural network model that was 63.6% accurate, 7% more accurate then the best-performing baseline linear discriminant analysis model. We discovered that audio transfer learning with a pretrained VGGish feature extractor performs better than the baseline approach using automatically extracted acoustic features. Our DepCNN exhibits good generalization capabilities. Both methods presented in this paper offer progress toward new, innovative, and more effective computer-based screening of dementia through spontaneous speech.
 
 # Introduction
@@ -61,6 +58,3 @@ Dementia, a prevalent disorder of the brain, has negative effects on individuals
 
 # Discussion
 1. Relatively small gains were found when fusing acoustics and linguistics approaches
-
-
-
