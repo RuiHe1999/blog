@@ -2,9 +2,9 @@
 title: Speaking in Alzheimer’s disease, is that an early sign? Importance of changes in language abilities in Alzheimer’s diseases
 description:
 toc: true
-tags:
+tags: review
 categories: paper notes
-series:
+series: Alzhemer's disease
 lastmod: '2021-06-27'
 featuredImage:
 draft: false
