@@ -8,7 +8,7 @@ theme: eureka
 
 paginate: 10
 copyright: >
-  &copy; 2021 <a href="https://ruihe.netlify.app/">R. He</a>
+  &copy
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
