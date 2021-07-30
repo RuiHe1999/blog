@@ -4,21 +4,16 @@ description:
 toc: true
 tags:
 categories: paper notes
-series:
+series: review
 lastmod: '2021-06-27'
 featuredImage:
 draft: false
 ---
 
-Paper Note.
+Szatloczki, G., Hoffmann, I., Vincze, V., Kalman, J., & Pakaski, M. (2015). Speaking in Alzheimer’s Disease, is That an Early Sign? Importance of Changes in Language Abilities in Alzheimer’s Disease. *Frontiers in aging neuroscience, 7*, 195. https://doi.org/10.3389/fnagi.2015.00195
 
 <!--more-->
-# Metadata 
-## Citation
-Szatloczki, G., Hoffmann, I., Vincze, V., Kalman, J., & Pakaski, M. (2015). Speaking in Alzheimer’s Disease, is That an Early Sign? Importance of Changes in Language Abilities in Alzheimer’s Disease. *Frontiers in aging neuroscience, 7*, 195. https://doi.org/10.3389/fnagi.2015.00195
-## Type 
-Mini Review
-## Abstract
+# Abstract
 It is known that Alzheimer’s disease (AD) influences the temporal characteristics of spontaneous speech. These phonetical changes are present even in mild AD. Based on this, the question arises whether an examination based on language analysis could help the early diagnosis of AD and if so, which language and speech characteristics can identify AD in its early stage. The purpose of this article is to summarize the relation between prodromal and manifest AD and language functions and language domains. Based on our research, we are inclined to claim that AD can be more sensitively detected with the help of a linguistic analysis than with other cognitive examinations. The temporal characteristics of spontaneous speech, such as speech tempo, number of pauses in speech, and their length are sensitive detectors of the early stage of the disease, which enables an early simple linguistic screening for AD. However, knowledge about the unique features of the language problems associated with different dementia variants still has to be improved and refined.
 
 # Questions Unsolved

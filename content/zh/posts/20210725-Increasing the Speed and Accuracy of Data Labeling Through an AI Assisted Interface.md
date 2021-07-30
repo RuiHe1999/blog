@@ -1,24 +1,19 @@
 ---
 title: Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
 description:
-tags:
+tags: 
 categories: paper notes
-series:
+series: General NLP
 lastmod: '2021-07-25'
 featuredImage:
 draft: false
 ---
 
-Paper Note.
+Desmond, M., Muller, M., Ashktorab, Z., Dugan, C., Duesterwald, E., Brimijoin, K., ... \& Pan, Q. (2021, April). Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface. In *26th International Conference on Intelligent User Interfaces* (pp. 392-401). doi: 10.1145/3397481.3450698
 
 <!--more-->
 
-# Metadata
-## Citation
-Desmond, M., Muller, M., Ashktorab, Z., Dugan, C., Duesterwald, E., Brimijoin, K., ... \& Pan, Q. (2021, April). Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface. In *26th International Conference on Intelligent User Interfaces* (pp. 392-401). doi: 10.1145/3397481.3450698
-## Type
-Conference Paper
-## Abstract
+# Abstract
 Labeling data is an important step in the supervised machine learning lifecycle. It is a laborious human activity comprised of repeated decision making: the human labeler decides which of several potential labels to apply to each example. Prior work has shown that providing AI assistance can improve the accuracy of binary decision tasks. However, the role of AI assistance in more complex data-labeling scenarios with a larger set of labels has not yet been explored. We designed an AI labeling assistant that uses a semi-supervised learning algorithm to predict the most probable labels for each example. We leverage these predictions to provide assistance in two ways: (i) providing a label recommendation and (ii) reducing the labeler’s decision space by focusing their attention on only the most probable labels. We conducted a user study (n=54) to evaluate an AI-assisted interface for data labeling in this context. Our results highlight that the AI assistance improves both labeler accuracy and speed, especially when the labeler finds the correct label in the reduced label space. We discuss findings related to the presentation of AI assistance and design implications for intelligent labeling interfaces.
 
 # Methods
