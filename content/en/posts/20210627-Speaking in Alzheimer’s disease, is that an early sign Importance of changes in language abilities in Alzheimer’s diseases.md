@@ -4,7 +4,7 @@ description:
 toc: true
 tags:
 categories: paper notes
-series: Review
+series: Neural/Clinical AD
 lastmod: '2021-06-27'
 featuredImage:
 draft: false

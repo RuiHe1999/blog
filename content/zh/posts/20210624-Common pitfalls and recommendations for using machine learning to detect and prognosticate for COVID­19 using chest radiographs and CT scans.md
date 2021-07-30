@@ -4,7 +4,7 @@ description:
 toc: true
 tags:
 categories: paper notes
-series: Review
+series: General NLP/CV
 lastmod: '2021-06-24'
 featuredImage:
 draft: false

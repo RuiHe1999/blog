@@ -3,7 +3,7 @@ title: Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted
 description:
 tags: 
 categories: paper notes
-series: General NLP
+series: General NLP/CV
 lastmod: '2021-07-25'
 featuredImage:
 draft: false
