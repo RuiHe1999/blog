@@ -7,8 +7,6 @@ theme: eureka
 # theme: github.com/wangchucheng/hugo-eureka
 
 paginate: 10
-copyright: >
-  &copy
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
