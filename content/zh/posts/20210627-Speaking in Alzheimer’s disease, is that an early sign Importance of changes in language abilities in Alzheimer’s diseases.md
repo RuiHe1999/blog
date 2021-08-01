@@ -4,7 +4,7 @@ description:
 toc: true
 tags:
 categories: 论文笔记
-series: 阿尔茨海默（计算模型）
+series: 阿尔茨海默（语言/神经/临床）
 lastmod: '2021-06-27'
 featuredImage:
 draft: false
