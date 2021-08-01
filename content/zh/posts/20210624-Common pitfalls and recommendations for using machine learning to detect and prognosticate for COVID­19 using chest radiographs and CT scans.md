@@ -3,8 +3,8 @@ title: Common pitfalls and recommendations for using machine learning to detect 
 description:
 toc: true
 tags:
-categories: paper notes
-series: General NLP/CV
+categories: 论文笔记
+series: NLP/CV
 lastmod: '2021-06-24'
 featuredImage:
 draft: false
