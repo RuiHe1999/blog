@@ -2,8 +2,8 @@
 title: Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech
 description:
 tags: 
-categories: paper notes
-series: Computational AD
+categories: 论文笔记
+series: 阿尔茨海默（计算模型）
 lastmod: '2021-07-30'
 featuredImage:
 draft: false
