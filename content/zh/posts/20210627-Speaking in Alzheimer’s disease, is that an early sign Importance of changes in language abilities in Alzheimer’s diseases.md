@@ -4,7 +4,7 @@ description:
 toc: true
 tags:
 categories: paper notes
-series: Neural/Clinical AD
+series: 阿尔茨海默（计算模型）
 lastmod: '2021-06-27'
 featuredImage:
 draft: false
