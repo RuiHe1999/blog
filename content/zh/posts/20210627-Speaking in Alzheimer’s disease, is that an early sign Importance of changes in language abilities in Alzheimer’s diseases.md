@@ -3,7 +3,7 @@ title: Speaking in Alzheimer’s disease, is that an early sign? Importance of c
 description:
 toc: true
 tags:
-categories: paper notes
+categories: 论文笔记
 series: 阿尔茨海默（计算模型）
 lastmod: '2021-06-27'
 featuredImage:
