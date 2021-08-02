@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: 上帝掷骰子吗？
+slogan: 求学研究，并非只为发表。但所写之文，皆应有发表之价值；写成之物，皆需谋发表之可能。——来自一张讲座照片，抱歉尚未能有幸得知主讲人是哪位老师
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
