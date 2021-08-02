@@ -1,7 +1,9 @@
 ---
 title: Vintage
 draft: false
-slogan: I do not study for publishing; but everything I write should be publishable, and I publish everything I wrote —— From a photo of a lecture which I do not know exactly by whom
+slogan: I do not study for publishing; but everything I write should be publishable, 
+slogan: and I publish everything I wrote 
+slogan: —— From a photo of a lecture which I do not know exactly by whom
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
 
