@@ -3,7 +3,7 @@ title: 何  睿
 draft: false
 role: 语言科学博士在读
 avatar: images/avatar.png
-bio: 计算语言学 | 汉英译员
+bio: 计算语言学 | 语言障碍研究  | 汉英翻译
 organization:
   name: 语法与认知实验室（Grammar and Cognition Lab）
   url: https://www.graclab.com/
