@@ -1,5 +1,5 @@
 ---
-title: 何睿
+title: 何  睿
 draft: false
 role: 语言科学博士在读
 avatar: images/avatar.png
