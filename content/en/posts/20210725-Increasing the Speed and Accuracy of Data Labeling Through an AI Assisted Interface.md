@@ -1,5 +1,5 @@
 ---
-title: Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
+title: [Note | Review] Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
 description:
 tags: 
 categories: paper notes
