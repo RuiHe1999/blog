@@ -1,5 +1,5 @@
 ---
-title: Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
+title: [笔记|研究] Increasing the Speed and Accuracy of Data Labeling Through an AI Assisted Interface
 description:
 tags: 
 categories: 论文笔记
