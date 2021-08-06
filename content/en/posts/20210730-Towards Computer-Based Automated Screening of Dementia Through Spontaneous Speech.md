@@ -1,5 +1,5 @@
 ---
-title: [Note | Review] Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech
+title: [Note | Research] Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech
 description:
 tags: 
 categories: paper notes
