@@ -1,5 +1,5 @@
 ---
-title: Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech
+title: [笔记|研究]Towards Computer-Based Automated Screening of Dementia Through Spontaneous Speech
 description:
 tags: 
 categories: 论文笔记
