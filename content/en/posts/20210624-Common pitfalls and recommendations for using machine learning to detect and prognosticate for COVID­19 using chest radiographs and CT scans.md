@@ -1,5 +1,5 @@
 ---
-title:「Note·Review」Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID­-19 using chest radiographs and CT scans
+title: Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID­-19 using chest radiographs and CT scans
 description:
 toc: true
 tags:
