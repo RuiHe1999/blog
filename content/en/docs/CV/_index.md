@@ -10,7 +10,7 @@ lastmod: '2021-07-25'
 draft: false
 ---
 
-Click Read More to read the full academic CV. If you want a PDF version, please download it via Overelaf ( https://cn.overleaf.com/read/dbzczsfbpzby ).
+Click Read More to read the full academic CV.
 
 <!--more-->
 
