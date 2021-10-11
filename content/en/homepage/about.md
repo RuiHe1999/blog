@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:h.r-rui@outlook.com
+    url: mailto:rui.he@upf.com
   - icon: twitter
     iconPack: fab
     url: https://twitter.com/RuiHe76864182
