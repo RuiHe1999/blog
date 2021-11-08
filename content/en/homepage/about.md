@@ -53,7 +53,7 @@ I am a big fan of classic Chinese poems, online novels, Cantonese music, and Jap
 
 ## Research interests 
 
-I draw on theories and methods from computational linguistics, neurolinguistics, statistics, and healthcare.  My research interests lie in the interaction of linguistics, healthcare, and computer science. I majorly study language-related healthcare issues with quantitative methods  (particularly corpus and computational methods). Currently, I am focusing on two topics: (1) Speech-based computational detection for Alzheimer's disease (my Ph.D. project under the supervision of Dr. Wolfram Hinzen); (2) public opinion mining on social media (particularly about healthcare events). I also study health management and policy in cooperation with my previous colleagues. 
+I draw on theories and methods from computational linguistics, neurolinguistics, statistics, and healthcare.  My research interests lie in the interaction of linguistics, healthcare, and computer science. I majorly study language-related healthcare issues with quantitative methods  (particularly corpus and computational methods). Currently, I am focusing on two topics: (1) Speech-based computational detection for Alzheimer's disease; (2) public opinion mining on social media (particularly about healthcare events). I also study health management and policy in cooperation with my previous colleagues. 
 
 ## Key words
 Computational linguistics; neurolinguistics; language disorder; dementia; Alzheimer's disease; public health
