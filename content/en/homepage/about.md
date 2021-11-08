@@ -3,7 +3,7 @@ title: Rui He
 draft: false
 role: PhD candidate in language science
 avatar: images/avatar.png
-bio: Computational Linguistic | Language Disorder Studies | Translation
+bio: Computational Linguistics | Language Disorder Studies | Translation
 organization:
   name: Grammar and Cognition Lab 
   url: https://www.graclab.com/
