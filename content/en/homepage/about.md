@@ -45,9 +45,9 @@ widget:
 
 ## Bio
 
-I was born in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am going to start my Ph.D. in exploring speech-based computational systems for detecting Alzheimer's disease under the supervision of Dr. Wolfram Hinzen. This project has got sponsored by China Scholarship Council (CSC).
+I was born in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a predoctoral candidate with Universitat Pompeu Fabra studying speech-based computational systems for detecting Alzheimer's disease under the supervision of Dr. Wolfram Hinzen. This project is sponsored by China Scholarship Council (CSC).
 
-I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive office of Zhuhai People's Hospital, and the translation group of Belink Translation. I have served as a part-time translator for 3 years. My specialist translation areas include business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
+I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive office of Zhuhai People's Hospital, and the translation group of Belink Translation. I have served as a part-time translator for 4 years. My specialist translation areas include business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
 
 I am a big fan of classic Chinese poems, online novels, Cantonese music, and Japanese anime. Though not a science student, I am fascinated by scientific history, especially quantum mechanics and the theory of relativity. 
 
