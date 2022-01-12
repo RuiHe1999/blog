@@ -3,7 +3,7 @@ title: Rui He
 draft: false
 role: PhD candidate in language science
 avatar: images/avatar.png
-bio: Computational Linguistics | Language Disorder Studies | Translation
+bio: Natural language processing | Language Disorder Studies | Translation
 organization:
   name: Grammar and Cognition Lab 
   url: https://www.graclab.com/
@@ -53,7 +53,7 @@ I am a big fan of classic Chinese poems, online novels, Cantonese music, and Jap
 
 ## Research interests 
 
-I draw on theories and methods from computational linguistics, neurolinguistics, statistics, and healthcare.  My research interests lie in the interaction of linguistics, healthcare, and computer science. I majorly study language-related healthcare issues with quantitative methods  (particularly corpus and computational methods). Currently, I am focusing on two topics: (1) Speech-based computational detection for Alzheimer's disease; (2) public opinion mining on social media (particularly about healthcare events). I also study health management and policy in cooperation with my previous colleagues. 
+I draw on theories and methods from natural language processing, machine learning, neurolinguistics, statistics, and healthcare.  My research interests lie in the interaction of linguistics, healthcare, and computer science. I majorly study language-related healthcare issues with quantitative methods  (particularly corpus and computational methods). Currently, I am focusing on speech-based/imaging-based computational detection for Alzheimer's diseases. 
 
 ## Key words
-Computational linguistics; neurolinguistics; language disorder; dementia; Alzheimer's disease; public health
+Natural language processing; machine learning; neurolinguistics; language disorder; dementia; Alzheimer's disease; public health
