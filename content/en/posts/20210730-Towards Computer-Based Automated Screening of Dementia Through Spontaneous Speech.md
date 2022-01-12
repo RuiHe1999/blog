@@ -2,9 +2,9 @@
 title: A PhD grant from CSC!
 description:
 tags: 
-categories: paper notes
-series: Computational AD
-lastmod: '2021-07-30'
+categories: News
+series: Grants
+lastmod: '2021-07-01'
 featuredImage:
 draft: false
 ---
