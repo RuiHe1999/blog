@@ -11,9 +11,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:rui.he@upf.com
-  - icon: twitter
+  - icon: orcid
     iconPack: fab
-    url: https://twitter.com/RuiHe76864182
+    url: https://orcid.org/0000-0001-6999-1920
   - icon: github
     iconPack: fab
     url: https://github.com/RuiHe1999
