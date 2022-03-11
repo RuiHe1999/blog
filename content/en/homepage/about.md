@@ -45,7 +45,7 @@ widget:
 
 ## Bio
 
-I was born in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a doctoral candidate with Universitat Pompeu Fabra studying how to model language and memory decline in Alzheimer's disease using machine learning methods. This study is supervised by [Dr. Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/) and Dr. [Núria Bel](https://www.upf.edu/web/nuria-bel). This project is granted by China Scholarship Council (CSC).
+I was born in China. I obtained my bachelor's degree in translation at Jinan University (Guangzhou, China) and my master's degree in theoretical and applied linguistics with my specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a doctoral candidate with Universitat Pompeu Fabra studying how to model language and memory decline in Alzheimer's disease using machine learning methods. This study is supervised by Dr. [Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/) and Dr. [Núria Bel](https://www.upf.edu/web/nuria-bel). This project is granted by China Scholarship Council (CSC).
 
 I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive office of Zhuhai People's Hospital, and the translation group of Belink Translation. I have served as a part-time translator for 4 years. My specialist translation areas include business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
 
