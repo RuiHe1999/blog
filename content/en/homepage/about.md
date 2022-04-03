@@ -51,9 +51,7 @@ I am in developing trustworthy natural language processing tool for healthcare. 
 
 I was born in China. I obtained my bachelor’s degree in translation at Jinan University (Guangzhou, China) and my master’s degree in theoretical and applied linguistics with the specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a doctoral candidate with Universitat Pompeu Fabra studying how to model and predict language and memory decline in Alzheimer’s disease using machine learning technique. This study is supervised by Dr. [Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/) and Dr. [Núria Bel](https://www.upf.edu/web/nuria-bel). This project is granted by [China Scholarship Council (CSC)](https://www.cscse.edu.cn/).
 
-I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive office of Zhuhai People's Hospital, and the translation group of Belink Translation. I have served as a part-time translator for 4 years. My specialist translation areas include business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
-
-I am a big fan of classic Chinese poems, online novels, Cantonese music, and Japanese anime. Though not a science student, I am fascinated by scientific history, especially quantum mechanics and the theory of relativity. 
+I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive/statistic office of Zhuhai People’s Hospital, and the translation group of Belink Translation. I am a part-time translator with specialist translation areas of business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
 
 ## Key words
 Machine Learning; Natural Language Processing; Language Disorder; Alzheimer's disease; Public Health
