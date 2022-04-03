@@ -56,4 +56,4 @@ I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehe
 I am a big fan of classic Chinese poems, online novels, Cantonese music, and Japanese anime. Though not a science student, I am fascinated by scientific history, especially quantum mechanics and the theory of relativity. 
 
 ## Key words
-Natural language processing; machine learning; neurolinguistics; language disorder; dementia; Alzheimer's disease; public health
+Machine Learning; Natural Language Processing; Language Disorder; Alzheimer's disease; Public Health
