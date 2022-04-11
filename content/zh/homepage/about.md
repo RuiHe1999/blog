@@ -45,9 +45,9 @@ widget:
 
 ## 关于我
 
-生长于华中通衢之省，曾求学岭南粤府。于暨南大学翻译学院获学士学位后，在巴塞罗那庞培法布拉大学获得理论与应用语言学（计算语言学）硕士学位，目前在该校[Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/)教授和[Núria Bel](https://www.upf.edu/web/nuria-bel)教授的指导下攻读翻译与语言科学博士学位。博士项目为阿尔茨海默症中语言和记忆下降的及其建模，该项目受到[国家留学基金委（CSC）](https://www.cscse.edu.cn/)资助。
+生长于华中通衢之省，曾求学岭南粤府。于暨南大学翻译学院获学士学位后，在巴塞罗那庞培法布拉大学获得理论与应用语言学（计算语言学）硕士学位，目前在该校[Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/)教授和[Núria Bel](https://www.upf.edu/web/nuria-bel)教授的指导下攻读翻译与语言科学博士学位。博士项目为阿尔茨海默症中语言和记忆下降的预测及建模，该项目受到[国家留学基金委（CSC）](https://www.cscse.edu.cn/)资助。
 
-曾在字节跳动AI Lab、珠海市人民医院和博朗翻译实习。兼职汉英双语兼职译员， 熟悉商务宣传、医疗卫生、国际关系、金融投资、检验测试认证等领域。
+曾在珠海市人民医院、字节跳动AI Lab和博朗翻译实习。兼职汉英双语兼职译员， 熟悉商务宣传、医疗卫生、国际关系、金融投资、检验测试认证等领域。
 
 ## 研究兴趣
 
