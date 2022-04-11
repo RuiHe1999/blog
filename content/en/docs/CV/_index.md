@@ -17,7 +17,7 @@ Click Read More to read the full academic CV.
 ## Education 
 - 2021 -- present, Universitat Pompeu Fabra (Barcelona, Spain)   
   PhD in Translation and Language Science, funded by China Scholarship Council  
-  Project: Speech-based computational detection of Alzheimer's disease  
+  Project: Computational Modeling and Prediction of Language and Memory Decline in Alzheimer's Disease  
 - 2020 -- 2021, Universitat Pompeu Fabra (Barcelona, Spain)       
   Master in Theoretical and Applied Linguistics (Specialized in Computational Linguistics)  
   Thesis: A BiLSTM+Attention+CRF Model for Chinese Metaphor Detection: Modeling and Evaluation
