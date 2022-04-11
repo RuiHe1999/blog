@@ -51,7 +51,7 @@ I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehe
 
 ## Research interests 
 
-I am interested in developing trustworthy natural language processing tool for healthcare. Currently, I am working on computational modeling and prediction of language and memory decline in Alzheimer’s disease. 
+I am interested in developing trustworthy natural language processing tools for healthcare. Currently, I am working on computational modeling and prediction of language and memory decline in Alzheimer’s disease. 
 
 ## Key words
 Machine Learning; Natural Language Processing; Language Disorder; Alzheimer's disease; Public Health
