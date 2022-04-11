@@ -22,7 +22,7 @@ Click Read More to read the full academic CV.
   Master in Theoretical and Applied Linguistics (Specialized in Computational Linguistics)  
   Thesis: A BiLSTM+Attention+CRF Model for Chinese Metaphor Detection: Modeling and Evaluation
 - 2016 -- 2020, Jinan University (Guangdong, China)  
-  Bachelor of Arts in Translation
+  Bachelor of Arts in Translation  
   Thesis (Translation Report): An Excerpt of The Modern Interpretation of Xiangshan Culture (Translation)
 
 ## Published papers
