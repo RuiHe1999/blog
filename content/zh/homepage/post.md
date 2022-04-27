@@ -1,5 +1,5 @@
 ---
-title: 博客文章
+title: 博客
 draft: false
 # Section you want to display
 section: posts
