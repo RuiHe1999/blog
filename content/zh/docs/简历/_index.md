@@ -26,7 +26,6 @@ draft: false
   学士论文（翻译实践报告）：《香山文化的现代诠释》节选 / 译文  
 
 ## 学术发表
-- 
 - 江鸿,梅文华,郭文燕,刘军卫,赵炜,任娜,严建东,于辉,**何睿**.珠海市高血压糖尿病患者双向转诊意愿及影响因素分析[J].中国社会医学杂志,2021,38(1):72-76.
 - Jiang, H., Liu, J., Ren, N., **He, R.**, Li, M., & Dong, Q. (2020). Emergency management in fever clinic during the outbreak of covid-19: an experience from zhuhai. *Epidemiology and Infection, 148*, e174. (**SCI Q3**) doi: 10.1017/S0950268820001764
 - **He, R.**, Zhang, Y., Wei, K., & Xu, N. (2021). Sentence-final particle and illocutionary acts in mandarin learners: a corpus-based study of ma. *Journal of Second and Multiple Language Acquisition-JSMULA, 9*(4), 276–284.
