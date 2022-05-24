@@ -5,7 +5,7 @@ tags:
 categories: News
 series: Study
 lastmod: '2022-05-23'
-featuredImage: 'static/Defense_cover_page.jpg'
+featuredImage: 
 draft: false
 ---
 
@@ -15,3 +15,4 @@ Thesis proposal defended!
 
 My thesis proposal titled "Computational Modeling of Language and Memory Decline in Alzheimer's Disease" was successfully defended this morning!  
 
+![Cover Slide](/Defense_cover_page.jpg)
