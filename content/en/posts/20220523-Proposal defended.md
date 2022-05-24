@@ -11,6 +11,6 @@ draft: false
 
 <!--more-->
 
-My thesis proposal titled "Computational Modeling of Language and Memory Decline in Alzheimer's Disease" was successfully defended this morning!  
+My thesis proposal titled "Computational Modeling of Language and Memory Decline in Alzheimer's Disease" was successfully defended this morning! You may download the slides via this link if interested: https://www.overleaf.com/read/tjvvdgvqmfnz
 
 ![Cover Slide](/Defense_cover_page.jpg)
