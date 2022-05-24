@@ -9,8 +9,6 @@ featuredImage:
 draft: false
 ---
 
-Thesis proposal defended!
-
 <!--more-->
 
 My thesis proposal titled "Computational Modeling of Language and Memory Decline in Alzheimer's Disease" was successfully defended this morning!  
