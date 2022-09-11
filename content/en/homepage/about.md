@@ -3,7 +3,7 @@ title: Rui He
 draft: false
 role: PhD candidate in language science
 avatar: images/avatar.png
-bio: Natural language processing | Language Disorder Studies | Translation
+bio: Natural Language Processing | Language Disorder Studies | Translation
 organization:
   name: Grammar and Cognition Lab 
   url: https://www.graclab.com/
@@ -45,13 +45,13 @@ widget:
 
 ## Bio
 
-I was born in China. I obtained my bachelor’s degree in translation at Jinan University, Zhuhai Campus (Zhuhai, China) and my master’s degree in theoretical and applied linguistics with the specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a doctoral candidate with Universitat Pompeu Fabra studying how to model and predict language and memory decline in Alzheimer’s disease using machine learning technique. This study is supervised by Dr. [Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/) and Dr. [Núria Bel](https://www.upf.edu/web/nuria-bel). This project is granted by [China Scholarship Council (CSC)](https://www.cscse.edu.cn/).
+I was born in China. I obtained my bachelor’s degree in translation at Jinan University, Zhuhai Campus (Zhuhai, China) and my master’s degree in theoretical and applied linguistics with the specialization in computational linguistics at Universitat Pompeu Fabra (Barcelona, Spain). I am now a doctoral candidate with Universitat Pompeu Fabra, studying how to model language and memory decline in Alzheimer’s disease using machine learning techniques. This study is supervised by Dr. [Wolfram Hinzen](https://sites.google.com/site/wolframhinzen/) and Dr. [Núria Bel](https://www.upf.edu/web/nuria-bel). This project is granted by [China Scholarship Council (CSC)](https://www.cscse.edu.cn/).
 
-I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive/statistic office of Zhuhai People’s Hospital, and the translation group of Belink Translation. I am a part-time translator with specialist translation areas of business advertising; healthcare and medicine; certification, testing, inspection; international relations; and investment.
+I worked as an intern with the NLP team in the AI Lab of ByteDance, the comprehensive & statistic offices of Zhuhai People’s Hospital, and the translation group of Belink Translation. I am a part-time translator with specialist translation areas of business advertising and healthcare.
 
 ## Research interests 
 
-I am interested in developing trustworthy natural language processing tools for healthcare. Currently, I am working on computational modeling and prediction of language and memory decline in Alzheimer’s disease. 
+My interest generally falls into the interaction of computational science, statistics, healthcare, and linguistics. An important goal for me is to develop trustworthy language-based automatic predictive tools for healthcare. Currently, I am working on computational modeling of language and memory decline in Alzheimer’s disease. 
 
 ## Key words
 Machine Learning; Natural Language Processing; Language Disorder; Alzheimer's disease; Public Health
