@@ -1,5 +1,5 @@
 ---
-title: Paper published: particulate matter on outpatient fever clinic visits
+title: Paper - particulate matter on outpatient fever clinic visits
 description:
 tags:
 categories: News
