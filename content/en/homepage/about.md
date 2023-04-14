@@ -51,4 +51,4 @@ I was born in Hubei, China, and moved to Zhuhai to obtain my BA degree in transl
 My interest generally falls into how language and brain function changes in cognitively atypical population using automatized approaches, and further into how changes in these two domains connects to each other. My current research majorly investigates two disease spectra, dementia and schizophrenia. Knowledge acquired from such analyses would serve as an input to the development of trustworthy language-based automatic predictive tools for disease warning. 
 
 ## Key words
-Natural language processing; language disorder; computational MRI analysis; machine learning
+Natural language processing; language disorder; computational MRI analysis; machine learning; dementia; schizophrenia
