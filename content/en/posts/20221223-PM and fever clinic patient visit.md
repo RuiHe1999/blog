@@ -9,6 +9,8 @@ featuredImage:
 draft: false
 ---
 
+Three size-specific PM exerted different effects on the fever clinic visits. Strategies to control the concentrations of PM are still necessary, especially against PM10 and PMc.
+
 <!--more-->
 
 Citation: Li, D., **He, R.**, Liu, P., & Jiang, H. (2022). Differential effects of size-specific particulate matter on the number of visits to outpatient fever clinics: A time-series analysis in Zhuhai, China. Frontiers in public health, 10, 972818. https://doi.org/10.3389/fpubh.2022.972818
