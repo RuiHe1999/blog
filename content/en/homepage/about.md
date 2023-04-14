@@ -3,10 +3,10 @@ title: Rui He
 draft: false
 role: PhD candidate in language science
 avatar: images/avatar.png
-bio: Natural Language Processing | Language Disorder Studies | Translation
+bio: Computational Neurolinguistics | Natural Language Processing | Cognitive Disorders
 organization:
   name: Grammar and Cognition Lab 
-  url: https://www.graclab.com/
+  url: https://www.upf.edu/web/grac
 social:
   - icon: envelope
     iconPack: fas
