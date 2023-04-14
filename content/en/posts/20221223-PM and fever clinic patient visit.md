@@ -2,7 +2,7 @@
 title: Paper - particulate matter on outpatient fever clinic visits
 description:
 tags:
-categories: News
+categories: Paper
 series: Study
 lastmod: '2022-12-23'
 featuredImage:
