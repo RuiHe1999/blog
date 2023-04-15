@@ -24,7 +24,7 @@ Click Read More to read the full academic CV.
 
 ## Published papers
 - Li, D., **He, R.**, Liu, P., & Jiang, H. (2022). Differential effects of size-specific particulate matter on the number of visits to outpatient fever clinics: A time-series analysis in Zhuhai, China. *Frontiers in public health, 10*, 972818. https://doi.org/10.3389/fpubh.2022.972818
-- - Jiang, H., Mei, W., Guo, W., Liu, J., Zhao, W., Ren, N., ... **He, R**. (2021). Influencing factors of the willingness for two-way referral of patients with hypertension and diabetes in zhuhai. *Chinese Journal of Social Medicine, 38*(01),72-76. https://doi.org/10.3969/j.issn.1673-5625.2021.01.019
+- Jiang, H., Mei, W., Guo, W., Liu, J., Zhao, W., Ren, N., ... **He, R**. (2021). Influencing factors of the willingness for two-way referral of patients with hypertension and diabetes in zhuhai. *Chinese Journal of Social Medicine, 38*(01),72-76. https://doi.org/10.3969/j.issn.1673-5625.2021.01.019
 - Jiang, H., Liu, J. W., Ren, N., **He, R.**, Li, M. Q., & Dong, Q. C. (2020). Emergency management in fever clinic during the outbreak of COVID-19: an experience from Zhuhai. *Epidemiology and Infection, 148*, e174. https://doi.org/10.1017/S0950268820001764
 - Jiang, H., Zhou, Y., Liu, J., Zhao, W., Ren, N., & **He, R**. (2020). Analysis of medical income of a grade - a tertiary hospital in zhuhai under the reform of zero interest rate of drugs and supplies. *China Economist, 2020*(04), 72-76.
 
