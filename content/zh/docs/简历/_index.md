@@ -17,17 +17,15 @@ draft: false
 ## 教育经历 
 - 2021至今，庞培法布拉大学（西班牙，巴塞罗那）   
   翻译与语言科学博士，受国家留学基金委资助    
-  博士课题：阿尔茨海默症中语言和记忆损失的机器建模与预测 
 - 2020 -- 2021，庞培法布拉大学（西班牙，巴塞罗那）    
   理论与应用语言学硕士（方向：计算语言学）  
-  硕士论文：结合注意力机制和条件随机场的中文隐喻探测双向长短时记忆网络：建模与评估（A BiLSTM+Attention+CRF Model for Chinese Metaphor Detection: Modeling and Evaluation）   
 - 2016 -- 2020，暨南大学（中国，广东）  
-  翻译学士  
-  学士论文（翻译实践报告）：《香山文化的现代诠释》节选 / 译文  
+  翻译学士
 
 ## 学术发表
+- Li, D., **He, R.**, Liu, P., & Jiang, H. (2022). Differential effects of size-specific particulate matter on the number of visits to outpatient fever clinics: A time-series analysis in Zhuhai, China. *Frontiers in public health, 10*, 972818. https://doi.org/10.3389/fpubh.2022.972818
 - 江鸿,梅文华,郭文燕,刘军卫,赵炜,任娜,严建东,于辉,**何睿**.珠海市高血压糖尿病患者双向转诊意愿及影响因素分析[J].*中国社会医学杂志*,2021,38(1):72-76.
-- Jiang, H., Liu, J., Ren, N., **He, R.**, Li, M., & Dong, Q. (2020). Emergency management in fever clinic during the outbreak of covid-19: an experience from zhuhai. *Epidemiology and Infection, 148*, e174. (**SCI Q3**) doi: 10.1017/S0950268820001764
+- Jiang, H., Liu, J., Ren, N., **He, R.**, Li, M., & Dong, Q. (2020). Emergency management in fever clinic during the outbreak of covid-19: an experience from zhuhai. *Epidemiology and Infection, 148*, e174. https://doi.org/10.1017/S0950268820001764
 - 江鸿,周燕,刘军卫,赵炜,任娜,**何睿**.基于药耗零差率改革的珠海某三甲医院医疗收入分析[J].*经济师*,2020(04):246-247.
 
 ## 工作实习
