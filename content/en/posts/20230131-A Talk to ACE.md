@@ -1,5 +1,5 @@
 ---
-title: Thesis proposal defended!
+title: A Talk to ACE!
 description:
 tags: 
 categories: News
