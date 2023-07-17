@@ -12,7 +12,7 @@ draft: false
 <!--more-->
 
 
-Our TRUSTING project has been granted by ERC! I recently attended the kick-off meeting where I had the opportunity to present our analytic pipelines for automatic semantic and syntactic analyses with Wolfram. The main goal of this project is to develop innovative speech-based tools for detecting relapse in individuals with schizophrenia. It is truly an honor to be a part of it!
+The TRUSTING project has been granted by ERC! I recently attended the kick-off meeting where I had the opportunity to present our analytic pipelines for automatic semantic and syntactic analyses with Wolfram. The main goal of this project is to develop innovative speech-based tools for detecting relapse in individuals with schizophrenia. It is truly an honor to be a part of it!
 
 ![Cover Slide](/Semantic_structure_RH.jpg)
 
