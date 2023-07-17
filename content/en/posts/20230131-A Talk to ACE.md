@@ -13,4 +13,4 @@ draft: false
 
 I gave a talk to people at Ace Alzheimer Center Barcelona and enjoyed great communication with them. Thanks for the invitation! 
 
-![Cover Slide](images/ACE_talk_20230131.jpg)
+![Cover Slide](./images/ACE_talk_20230131.jpg)
