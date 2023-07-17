@@ -5,7 +5,7 @@ tags:
 categories: News
 series: Study
 lastmod: '2023-07-07'
-featuredImage: /Semantic_structure_RH.jpg
+featuredImage:
 draft: false
 ---
 
