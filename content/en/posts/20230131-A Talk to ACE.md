@@ -1,10 +1,10 @@
 ---
-title: A Talk to ACE!
+title: A Talk to ACE
 description:
 tags: 
 categories: News
 series: Study
-lastmod: '20230131'
+lastmod: '2023-01-31'
 featuredImage: 
 draft: false
 ---
