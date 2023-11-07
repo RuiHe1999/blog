@@ -12,7 +12,7 @@ draft: false
 
 <!--more-->
 
-_**Citation**_: **He, R.,** Yuan, X., & Hinzen, W. (2023). Episodic Thinking in Alzheimer's Disease Through the Lens of Language: Linguistic Analysis and Transformer-Based Classification. *American journal of speech-language pathology*, 1–9. Advance online publication. https://doi.org/10.1044/2023_AJSLP-23-00066
+_**引用*_: **He, R.,** Yuan, X., & Hinzen, W. (2023). Episodic Thinking in Alzheimer's Disease Through the Lens of Language: Linguistic Analysis and Transformer-Based Classification. *American journal of speech-language pathology*, 1–9. Advance online publication. https://doi.org/10.1044/2023_AJSLP-23-00066
 
 ---
 
@@ -28,7 +28,7 @@ _**Abstract**_
 
 ---
 
-以下为机器翻译版本：
+以下为机器翻译摘要：
 
 **目的：** 情景记忆衰退是阿尔茨海默病 (AD) 的一个标志，与针对未来的情景思维缺陷有关。 我们研究的问题是，情景思维的缺陷是否可以直接从连贯的语音中捕捉到，而且其检测是否可以自动化。
 
@@ -36,4 +36,4 @@ _**Abstract**_
 
 **结果：** 发作性下降将对照组与轻度 pAD 和中度 pAD 显着区分开来。 相关分析表明，这种下降不是年龄、性别和教育程度的影响，而是认知能力的影响。 这种下降并没有因为非情景性话语的增加而得到补偿，而主要是非任务性表达的增加。 基于 Transformer 的分类器探索了情景性分类自动化的可能性，在三元分类中取得了 0.913 的宏观 F1 分数。
 
-**结论：** 这些结果表明，情景性丧失是 AD 的早期效应，在自发言语中表现，并且可以由人类和机器可靠地测量。
+**结论：** 这些结果表明，情景性下降是阿尔茨海默病的早期效应，在自发言语中显现，并且可以由人类和机器可靠地测量。
