@@ -17,7 +17,10 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/RuiHe1999
-
+  - icon: twitter
+    iconPack: fab
+    url: https://twitter.com/RuiHe_
+    
 weight: 1
 widget:
   handler: about
