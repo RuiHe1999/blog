@@ -1,14 +1,14 @@
 ---
-title: Paper | Episodic Thinking in AD Through Language
+title: 论文 | 语言视角下阿尔茨海默病的情景思维
 description:
 tags:
-categories: Paper
-series: Study
+categories: 论文
+series: 研习
 lastmod: '2023-10-23'
 featuredImage:
 draft: false
 ---
-A loss of episodicity is an early effect in AD that is manifested in spontaneous speech and can be reliably measured by both humans and machines.
+情景性下降是阿尔茨海默病的早期效应，在自发言语中显现，并且可以由人类和机器可靠地测量。
 
 <!--more-->
 
