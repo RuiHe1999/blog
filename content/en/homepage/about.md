@@ -1,8 +1,8 @@
 ---
 title: Rui He
-draft: true
+draft: false
 role: PhD candidate in language science
-avatar: images/profile.png
+avatar: images/icon.png
 bio: Computational Neurolinguistics | Natural Language Processing
 organization:
   name: Grammar and Cognition Lab 
