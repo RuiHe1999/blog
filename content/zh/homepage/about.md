@@ -2,7 +2,7 @@
 title: 何  睿
 draft: false
 role: 语言科学博士在读
-avatar: images/profile.png
+avatar: avatar/profile.png
 bio: 计算神经语言学 | 自然语言处理
 organization:
   name: 语法与认知实验室（Grammar and Cognition Lab）
