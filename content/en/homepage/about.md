@@ -1,6 +1,6 @@
 ---
 title: Rui He
-draft: false
+draft: true
 role: PhD candidate in language science
 avatar: images/profile.png
 bio: Computational Neurolinguistics | Natural Language Processing
