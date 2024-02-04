@@ -14,6 +14,7 @@ Semantic distances between lexical concepts in psychosis narrow and such narrowi
 <!--more-->
 
 _**Citation**_: **He, R.,** , Palominos, C., Zhang, H., Alonso-Sánchez, M. F., Palaniyappan, L., & Hinzen, W. (2024). Navigating the semantic space: Unraveling the structure of meaning in psychosis using different computational language models. Psychiatry research, 333, 115752. Advance online publication. https://doi.org/10.1016/j.psychres.2024.115752
+
 ---
 
 _**Abstract**_
