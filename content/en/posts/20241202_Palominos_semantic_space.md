@@ -14,6 +14,7 @@ Approximating the semantic space: word embedding techniques in psychiatric speec
 <!--more-->
 
 _**Citation**_: Palominos, C., **He, R.**, Fröhlich, K., Mülfarth, R. R., Seuffert, S., Sommer, I. E., Homan, P., Kircher, T., Stein, F., & Hinzen, W. (2024). Approximating the semantic space: word embedding techniques in psychiatric speech analysis. *Schizophrenia (Heidelberg, Germany)*, *10*(1), 114. https://doi.org/10.1038/s41537-024-00524-7
+
 ---
 
 _**Abstract**_
