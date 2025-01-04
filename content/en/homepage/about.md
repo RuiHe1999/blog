@@ -12,7 +12,7 @@ social:
     iconPack: fas
     url: mailto:rui.he@upf.com
   - icon: google-scholar
-    iconPack: ai
+    iconPack: fab
     url: https://scholar.google.com/citations?user=RcbmdIAAAAAJ&hl=en
   - icon: github
     iconPack: fab
