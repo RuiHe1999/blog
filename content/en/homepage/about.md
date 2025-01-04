@@ -11,8 +11,8 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:rui.he@upf.com
-  - icon: mdi:google-scholar
-    iconPack: mdi
+  - icon: google
+    iconPack: fab
     url: https://scholar.google.com/citations?user=RcbmdIAAAAAJ&hl=en
   - icon: github
     iconPack: fab
