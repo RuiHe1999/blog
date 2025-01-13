@@ -1,9 +1,9 @@
 ---
 title: 何  睿
 draft: false
-role: 语言科学博士在读
+role: 博士
 avatar: images/avatar.png
-bio: 计算神经语言学 | 自然语言处理
+bio: 自然语言处理 | 计算精神病学
 organization:
   name: 语法与认知实验室（Grammar and Cognition Lab）
   url: https://www.upf.edu/web/grac
