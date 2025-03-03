@@ -52,7 +52,7 @@ widget:
 
 此外，我也关注基于语言和语音指标的疾病分类和症状预测模型开发。通过提供可信可用的临床工具，我期望基于语言的理论探索为临床早期诊断和预后用药提供助力。这一方向上，我是[TRUSTING项目](https://trusting-project.eu/)成员之一，开发可信赖的精神分裂复发预测语音模型；此外，我也受广东省国际合作项目资助，研究阿尔茨海默的早期预测。
 
-我于华中通衢之省、吴都旧郡鄂州成长，后求学岭南粤府、香山脚下。我在[暨南大学翻译学院](https://translation.jnu.edu.cn/) 获得文学学士学位，其间曾在珠海市人民医院实习，参与数项公共卫生相关课题。之后，我在庞培法布拉大学（西班牙巴塞罗那）攻读了理论与应用语言学硕士学位，专攻计算语言学。随后，我加入该校[语法与认知实验室](https://www.upf.edu/web/grac)实验室攻读博士学位，导师为[Wolfram Hinzen](https://www.icrea.cat/Web/ScientificStaff/wolfram-hinzen-565)教授和[Núria Bel](https://www.upf.edu/web/nuria-bel)教授。
+我于华中通衢之省、吴都旧郡鄂州成长，后求学岭南粤府、香山脚下。我在[暨南大学翻译学院](https://translation.jnu.edu.cn/) 获得文学学士学位，其间曾在珠海市人民医院实习，参与数项公共卫生相关课题。之后，我在庞培法布拉大学（西班牙巴塞罗那）获得理论与应用语言学（计算语言学方向）硕士学位。随后，我加入该校[语法与认知实验室](https://www.upf.edu/web/grac)实验室攻读博士学位，导师为[Wolfram Hinzen](https://www.icrea.cat/Web/ScientificStaff/wolfram-hinzen-565)教授和[Núria Bel](https://www.upf.edu/web/nuria-bel)教授。
 
 
 ## 关键词
