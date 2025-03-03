@@ -19,47 +19,8 @@ social:
     url: https://github.com/RuiHe1999
   - icon: bluesky
     iconPack: fab
-    url: https://bsky.app/profile/federicofrau.bsky.social
-    
-weight: 1
-widget:
-  handler: about
+    url: https://bsky.app/profile/yoeyho.bsky.social
 
-  # Options: sm, md, lg and xl. Default is md.
-  width:
-
-  sidebar:
-    # Options: left and right. Leave blank to hide.
-    position:
-    # Options: sm, md, lg and xl. Default is md.
-    scale:
-  
-  background:
-    # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
-    image:
-    # Options: auto, cover and contain. Default is auto.
-    size:
-    # Options: center, top, right, bottom, left.
-    position:
-    # Options: fixed, local, scroll.
-    attachment: 
----
-
-I am a postdoctoral researcher at the [Grammar and Cognition Lab (GraC)](https://www.upf.edu/web/grac) of [Universitat Pompeu Fabra (Barcelona, Spain)](https://www.upf.edu/). My research broadly focuses the function and mechanisms of language, and its loss in clinical conditions. I develop and apply computational tools to analyze speech recordings, textual data, and functional MRI images.social:
-  - icon: envelope
-    iconPack: fas
-    url: mailto:rui.he@upf.com
-  - icon: google
-    iconPack: fab
-    url: https://scholar.google.com/citations?user=RcbmdIAAAAAJ&hl=en
-  - icon: github
-    iconPack: fab
-    url: https://github.com/RuiHe1999
-  - icon: twitter
-    iconPack: fab
-    url: https://twitter.com/RuiHe_
-    
 weight: 1
 widget:
   handler: about
