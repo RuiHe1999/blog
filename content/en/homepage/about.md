@@ -17,9 +17,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/RuiHe1999
-  - icon: twitter
+  - icon: bluesky
     iconPack: fab
-    url: https://twitter.com/RuiHe_
+    url: https://bsky.app/profile/federicofrau.bsky.social
     
 weight: 1
 widget:
